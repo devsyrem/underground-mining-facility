@@ -138,9 +138,7 @@ This facility is designed to be future-proof and environmentally conscious:
 An underground crypto mining facility is a forward-thinking solution to the challenges of modern cryptocurrency mining. By combining renewable energy, advanced technology, and robust infrastructure, this project ensures profitability, scalability, and sustainability. With careful planning and the right tools, you can create a mining operation that is both efficient and future-ready.  
 
 For inquiries or additional guidance, feel free to reach out:  
-**Project Lead**: [Your Name]  
-**Email**: [Your Email]  
-**Phone**: [Your Phone Number]  
+**Project Lead**: </Syrem>  
+**Telegram**:  syrem_dev
+**Discord**: dev_syrem88
 ```  
-
-Let me know if you’d like further refinements or additional details!
